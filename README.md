@@ -22,4 +22,4 @@ https://code.visualstudio.com/docs/remote/troubleshooting#_wsl-tips
 
 ## Revision Log
 
-*   (_TODO: fill in your changes to your project here!_)
+*   Full Changelog: https://github.com/Glaven14/loot-generator/commits/newTag
